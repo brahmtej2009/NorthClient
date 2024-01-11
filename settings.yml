@@ -49,11 +49,11 @@ changelog:
 linkvertise: ##go to https://publisher.linkvertise.com/ to get ur userid
   enabled: false
   userid: 670778
-  coins: 25
+  coins: 1
 
 status:
   enabled: true
-  script: https://julihost.cloud
+  script: https://status.julihost.cloud
 
 stripe:
   enabled: false  
