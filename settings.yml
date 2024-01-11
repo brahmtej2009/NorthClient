@@ -136,7 +136,7 @@ api:
     oauth2:
       id: "1191427126512066580"
       secret: "jY_jQnd2MHLAdcWkIdjS2fdNDDYohZef"
-      link: "https://dash.julihost.cloud"
+      link: "https://client.julihost.cloud"
       callbackpath: "/callback"
       prompt: true
 
