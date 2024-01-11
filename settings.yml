@@ -1,6 +1,6 @@
-name: NorthClient
+name: JuliHost
 defaulttheme: NorthClientTheme
-logo: https://media.discordapp.net/attachments/984837636457918465/1000014634012647464/giphy.gif
+logo: https://cdn.discordapp.com/attachments/1121825239001726996/1194683587048509565/IMG_20240104_235032.png?ex=65b13ecb&is=659ec9cb&hm=355f33d07bf5e5585df35a58f1facd068fcd6c0f7debaa1d21bae758fbdcf45a&
 version: 2.0.0
 website:
   port: 9000
@@ -104,10 +104,10 @@ api:
       joinguild:
         enabled: true
         guildid:
-        - SERVERID
-        - SERVERID
+        - 1099652615077384223
+        - 1099652615077384223
         forcejoin: true
-        registeredrole: ""
+        registeredrole: "1099653764778045472"
 
     webhook:
       webhook_url: Example URL
