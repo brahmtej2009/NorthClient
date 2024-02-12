@@ -1,21 +1,21 @@
 name: JuliHost
 defaulttheme: NorthClientTheme
-logo: https://cdn.discordapp.com/attachments/1121825239001726996/1194683587048509565/IMG_20240104_235032.png?ex=65b13ecb&is=659ec9cb&hm=355f33d07bf5e5585df35a58f1facd068fcd6c0f7debaa1d21bae758fbdcf45a&
+logo: https://julihost.cloud/images/fevicon.png
 version: 2.0.0
 website:
   port: 9000
-  secret: rushop
+  secret: brahm
 
 data:
- email: "ongamingrush@gmail.com"
+ email: "brahmtejsawhney@gmail.com"
  number: "11125 3311 12533"
 
 gift:
-  enabled: true
+  enabled: false
 
 discordserver:
   enabled: true
-  invitelink: https://discord.gg/TN9HtduA
+  invitelink: https://discord.gg/sw6UXUww8a
 
 ads:
   enabled: false
@@ -27,8 +27,8 @@ guildblacklist:
   - ServerID
 
 pterodactyl: ##go to ur panel get a api
-  domain: https://control.julihost.cloud
-  key: ptla_pJ09l9AMGyCs2uThWhMUaTw93u0lZeYzrwc5th9s6CR
+  domain: https://panel.julihost.cloud
+  key: ptla_V9WEi7rApUrrYijGenJbiwhonasBMic2o9HUH7GWLBz
 
 AFK Party: 
   enabled: false
@@ -47,7 +47,7 @@ changelog:
     sent: sent 20.07.2022
 
 linkvertise: ##go to https://publisher.linkvertise.com/ to get ur userid
-  enabled: false
+  enabled: true
   userid: 670778
   coins: 1
 
